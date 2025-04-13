@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Instant Copy Hub",
+    "version": "1.0",
+    "description": "Simplest and quickest notes storage. You can copy your notes just one click.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+}
